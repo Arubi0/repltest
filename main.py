@@ -6,3 +6,4 @@ print ("Your name is " + name)
 # print ("your favorite class is? " + class )
 
 #Typing things
+#something
