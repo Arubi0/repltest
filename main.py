@@ -4,3 +4,5 @@ print ("Your name is " + name)
 
 #class =  input("what is your favorite class? ")
 # print ("your favorite class is? " + class )
+
+#Typing things
